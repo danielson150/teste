@@ -1,0 +1,110 @@
+.logo {
+    width: 180px;
+    margin-top: 5%;
+}
+
+.cor-padrao {
+    background-color: #ff890a;
+}
+.page-footer {
+    padding: 56px;
+    color: #fff;
+    text-align: center;
+}
+
+/* Apenas para teste */
+
+.t {
+    width: 100%;
+    height: 750px;
+    ;
+}
+
+#test2,
+#test3,
+#test4 {
+    display: none;
+}
+
+/* fim do teste */
+
+/* Personalização do paralax */
+
+.parallax-container {
+    height: 500px;
+}
+
+/* Classes gerais */
+
+.blur-white {
+    background-color: #ffffffaa;
+}
+
+.blur-black {
+    background-color: #000000aa;
+}
+
+.full-height {
+    height: 500px;
+}
+
+.box-margin {
+    margin: 15px;
+}
+
+.pdg-50 {
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.border-round {
+  border: 2px solid #9c27b0;
+  border-radius: 15px;
+  padding: 50px;
+}
+
+/* tabs */
+
+.auto-height {
+    height: auto;
+}
+
+.auto-overflow {
+    overflow: auto;
+}
+
+/* Forms */
+.container-cadastro {
+    max-width: 600px;
+}
+.cadastro {
+    max-width: 50%;
+}
+input[type="text"], input[type="password"]{
+    width: 100%;
+    border: 1px solid #673ab7;
+    border-radius: 3px;
+    padding: 5px;
+}
+#tipo-de-usuario {
+    margin-top: 25px;
+    width: 50%;
+    padding: 5px;
+    background-color: transparent;
+    border: 1px solid #673ab7;
+    border-radius: 3px;
+}
+#tipo-de-usuario option {
+    padding: 15px;
+    background-color: #fff;
+}
+#tell-ddd {
+    display: block;
+    width: 15%;
+    float: left;
+}
+#tell-number {
+    display: block;
+    width: 84%;
+    float: right;
+}
